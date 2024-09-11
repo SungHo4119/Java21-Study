@@ -1,6 +1,6 @@
 package basic.var;
 
-public class varEx2 {
+public class VarEx2 {
     public static void main(String[] args) {
         int num1 = 4;
         int num2 = 3;
