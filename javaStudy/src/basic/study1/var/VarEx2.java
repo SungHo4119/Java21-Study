@@ -1,4 +1,4 @@
-package basic.var;
+package basic.study1.var;
 
 public class VarEx2 {
     public static void main(String[] args) {

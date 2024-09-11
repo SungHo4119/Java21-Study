@@ -1,4 +1,4 @@
-package basic.cond;
+package basic.study3.cond;
 
 public class Condop2 {
     public static void main(String[] args) {
