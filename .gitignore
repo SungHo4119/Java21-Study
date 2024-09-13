@@ -29,3 +29,6 @@ bin/
 
 ### .idea ###
 .idea
+
+### JAVA ###
+out/
