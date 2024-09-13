@@ -1,4 +1,4 @@
-package basic.study10.oop1.ex1;
+package basic.study10.oop.ex1;
 
 public class Rectangle {
     int width;

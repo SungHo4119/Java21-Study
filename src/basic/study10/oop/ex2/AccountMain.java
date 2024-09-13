@@ -1,4 +1,4 @@
-package basic.study10.oop1.ex2;
+package basic.study10.oop.ex2;
 
 public class AccountMain {
     public static void main(String[] args) {
