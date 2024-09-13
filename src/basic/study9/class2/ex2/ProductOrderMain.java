@@ -18,7 +18,7 @@ public class ProductOrderMain {
             String productName = s.nextLine();
             System.out.print("가격 : ");
             int price =  s.nextInt();
-            s.nextLine();
+
             System.out.print("수량 : ");
             int quantity =  s.nextInt();
             s.nextLine();
