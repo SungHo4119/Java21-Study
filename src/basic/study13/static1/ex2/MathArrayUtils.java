@@ -1,6 +1,9 @@
 package basic.study13.static1.ex2;
 
 public class MathArrayUtils {
+    private  MathArrayUtils() {
+
+    }
     public static int sum (int[] values) {
         int sum = 0;
         for (int value : values) {
