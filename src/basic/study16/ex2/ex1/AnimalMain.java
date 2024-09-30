@@ -1,4 +1,4 @@
-package basic.study16.ex1;
+package basic.study16.ex2.ex1;
 
 public class AnimalMain {
     public static void main(String[] args) {
@@ -7,7 +7,7 @@ public class AnimalMain {
 
     }
 
-    private static void soundAnimal(AbstractAnimal animal) {
+    private static void soundAnimal(InterfaceAnimal animal) {
         animal.sound();
     }
 }
