@@ -1,6 +1,6 @@
 package basic.study17.ex3;
 
-public class PayStore {
+public abstract class PayStore {
 
   public static Pay findPay(String option) {
     if (option.equals("kakao")) {
