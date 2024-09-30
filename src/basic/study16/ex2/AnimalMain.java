@@ -1,4 +1,4 @@
-package basic.study16.ex2.ex1;
+package basic.study16.ex2;
 
 public class AnimalMain {
     public static void main(String[] args) {

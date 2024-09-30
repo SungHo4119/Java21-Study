@@ -1,4 +1,4 @@
-package basic.study16.ex2.ex1;
+package basic.study16.ex2;
 
 public interface InterfaceAnimal {
     // public final static
