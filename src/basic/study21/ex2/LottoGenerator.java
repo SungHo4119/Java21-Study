@@ -22,7 +22,8 @@ public class LottoGenerator {
     }
 
     private boolean isUnique(int number) {
-        for (int i : lottoNumber) {
+        //for (int i : lottoNumber) {
+        for (int i = 0; i < count; i++) {
             if (i == number) {
                 return false;
             }
