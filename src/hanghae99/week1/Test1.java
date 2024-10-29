@@ -17,7 +17,7 @@ import java.util.Scanner;
  * 4. 이어서 입력한 모든 문장앞에 번호를 붙여서 모두 출력해 줍니다.
  */
 
-public class test1 {
+public class Test1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int count = 0;
